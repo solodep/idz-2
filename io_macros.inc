@@ -1,8 +1,4 @@
 # ================== io_macros.inc ==================
-# Real, useful macros for RARS (tested syntax: .macro ... %param)
-# These macros call small IO procedures (print_str/print_int/read_double/print_double)
-# which must be present in the including translation unit.
-#
 # Usage examples:
 #   PRINT_STR prompt_eps
 #   READ_DOUBLE fa2
